@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-size: 14px;
+  font-family: 'Inter', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: var(--black);
+}
