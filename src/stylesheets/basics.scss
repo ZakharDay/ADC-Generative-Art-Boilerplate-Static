@@ -8,9 +8,7 @@ body {
 }
 
 body {
+  display: flex;
   margin: 0;
-  font-size: 14px;
-  font-family: 'Inter', Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  color: var(--black);
+  font-family: verdana, arial, helvetica, sans-serif;
 }
